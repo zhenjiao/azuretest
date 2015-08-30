@@ -16,7 +16,7 @@
 	ms.date="07/06/2015" 
 	ms.author="robb"/>
 
-#Application Architecture on Microsoft Azure
+#Test Application Architecture on Microsoft Azure
 Resources for building applications that use Microsoft Azure.
 
 ##Azure Architectural Design Patterns
